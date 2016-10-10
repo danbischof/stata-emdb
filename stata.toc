@@ -1,0 +1,4 @@
+********************************************* stata.toc
+v 3
+d emdb by danbischof
+p emdb [exchange e_b with what you want]
